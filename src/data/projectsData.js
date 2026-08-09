@@ -1,6 +1,8 @@
-import ecommerceImage from "../assets/images/projects/Screenshot (343).png";
-import expenseImage from "../assets/images/projects/Screenshot (344).png";
-import portfolioImage from "../assets/images/projects/Screenshot (345).png";
+import ecommerceImage from "../assets/images/projects/e-commerce.jpg";
+import expenseImage from "../assets/images/projects/Expense_Tracker.png";
+import portfolioImage from "../assets/images/projects/Screenshot (391).png";
+import movieSearchImage from "../assets/images/projects/Movie_Search_App.png";
+import todoImage from "../assets/images/projects/todo_list.jpg";
 
 const projectsData = [
     {
@@ -53,7 +55,7 @@ const projectsData = [
         title: "Movie Search App",
         description:
             "Aplikasi pencarian film dengan integrasi API, responsive design, dan user-friendly interface.",
-        image: portfolioImage,
+        image: movieSearchImage,
         technologies: [
             "React",
             "Tailwind CSS",
@@ -68,7 +70,7 @@ const projectsData = [
         title: "Todo List App",
         description:
             "Aplikasi pencatatan tugas dengan fitur CRUD, search, dan filter.",
-        image: portfolioImage,
+        image: todoImage,
         technologies: [
             "React",
             "Tailwind CSS",
