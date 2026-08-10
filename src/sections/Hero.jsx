@@ -1,6 +1,6 @@
 import Container from "../components/common/Container";
 import heroData from "../data/heroData";
-import heroImage from "../assets/images/profile/a.jpeg";
+import heroImage from "../assets/images/profile/b.jpg";
 
 import {
     FaReact,
